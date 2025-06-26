@@ -1,8 +1,7 @@
-import React, { createElement, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   Text,
   StyleSheet,
-  Button,
   ImageBackground,
   View,
   Image,

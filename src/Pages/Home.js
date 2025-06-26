@@ -18,7 +18,6 @@ export default function Home({ navigation }) {
     const novaHora = new Date().getHours()
     
     setHora(novaHora)
-    console.log(novaHora +" Hora:"+ hora)
 
      if(hora > 6 && hora < 18){
       setIsDay(true)
