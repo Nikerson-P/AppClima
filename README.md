@@ -23,4 +23,6 @@ Este é um aplicativo móvel simples criado com React Native que mostra o clima 
 ---
 ## 📷:Screenshot
 
+![Captura da primeira tela](https://github.com/Nikerson-P/AppClima/blob/main/assets/Screenshots/0046187828_20250626_120236_722.png)
+![Captura da primeira tela](https://github.com/Nikerson-P/AppClima/blob/main/assets/Screenshots/0046187828_20250626_120228_896.png)
 
