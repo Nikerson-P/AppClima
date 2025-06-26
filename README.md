@@ -16,8 +16,11 @@ Este é um aplicativo móvel simples criado com React Native que mostra o clima 
 ## 🛠 Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) (caso esteja usando)
+- [Expo](https://expo.dev/)
 - [OpenWeatherMap API](https://openweathermap.org/)
 - JavaScript / JSX
 
 ---
+## 📷:Screenshot
+
+
